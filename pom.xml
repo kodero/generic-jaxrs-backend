@@ -27,7 +27,7 @@
         <version.resteasy>4.5.2.Final</version.resteasy>
         <version.hibernate>5.4.3.Final</version.hibernate>
         <version.war.plugin>2.1.1</version.war.plugin>
-        <version.fasterxml>2.10.3</version.fasterxml>
+        <version.fasterxml>2.12.1</version.fasterxml>
 
         <!-- maven-compiler-plugin -->
         <maven.compiler.target>13</maven.compiler.target>
