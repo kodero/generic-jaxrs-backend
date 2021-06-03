@@ -24,7 +24,7 @@
         <version.jboss.spec.javaee.8.0>1.0.4.Final</version.jboss.spec.javaee.8.0>
 
         <!-- other plug-in versions -->
-        <version.resteasy>4.5.2.Final</version.resteasy>
+        <version.resteasy>4.5.6.Final-redhat-00004</version.resteasy>
         <version.hibernate>5.4.3.Final</version.hibernate>
         <version.war.plugin>2.1.1</version.war.plugin>
         <version.fasterxml>2.10.3</version.fasterxml>
