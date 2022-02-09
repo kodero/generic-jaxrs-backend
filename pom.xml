@@ -25,7 +25,7 @@
 
         <!-- other plug-in versions -->
         <version.resteasy>4.5.2.Final</version.resteasy>
-        <version.hibernate>5.4.3.Final</version.hibernate>
+        <version.hibernate>5.4.24.Final</version.hibernate>
         <version.war.plugin>2.1.1</version.war.plugin>
         <version.fasterxml>2.10.3</version.fasterxml>
 
